@@ -30,7 +30,7 @@ We welcome contributions from anyone interested in hardware acceleration, FPGA d
 
 To get started with the HAC project, please refer to the following resources:
 
-- [Wiki](wiki): Explore our project wiki for detailed documentation, guides, and tutorials.
+- [Wiki](wiki/README.md): Explore our project wiki for detailed documentation, guides, and tutorials.
 - [Issues](issues): Check out our open issues to see what tasks are in progress or need attention.
 - [Code](code): Browse through our codebase to understand our implementations and contribute your own.
 
